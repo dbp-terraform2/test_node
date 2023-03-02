@@ -16,5 +16,5 @@ server.listen(port, hostname, () => {
   console.log(`Server is running on http://${hostname}:${port}`);
   console.log(`End point: ${endpointUri}`);
   console.log(`Redirect url: ${redirectUrl}`);
-  console.log('Hello 2');
+  console.log('Hello 3');
 });
